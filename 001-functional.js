@@ -21,9 +21,12 @@ const getTea = numOfCups => {
 };
 
 // Add your code below this line
+// Call getTea to get 40 cups of tea and store them in tea4TeamFCC
 
-const tea4TeamFCC = null; // :(
+// const tea4TeamFCC = null; // :(
 
-// Add your code above this line
+// My code
+
+const tea4TeamFCC = getTea(40);
 
 console.log(tea4TeamFCC);
